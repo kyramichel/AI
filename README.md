@@ -1,9 +1,11 @@
 # AI 
 
-## Traditional approach to AI using Keras, TensorFlow, etc.
+## 1. Traditional approach to AI using Keras, TensorFlow, etc.
 
-## Question: Is the language of tensors/vectors the future language of AI?  
-Learn more about a novel quantitative approach to modeling @ https://www.innovativeway.org/research
+## 2. Is the language of tensors/vectors the future language of AI?  
+## Learn more about a novel quantitative approach to modeling @ https://www.innovativeway.org/research
+
+
 
 
 PS: If you can't open a Jupyter notebook on github, use nbviewer:

@@ -1,7 +1,8 @@
 # AI 
-Traditional approach to AI using Keras, TensorFlow, etc.
 
-# Question: IS TENSOR/VECTOR LANGUAGE THE FUTURE LANGUAGE OF AI?  
+## Traditional approach to AI using Keras, TensorFlow, etc.
+
+## Question: IS TENSOR/VECTOR LANGUAGE THE FUTURE LANGUAGE OF AI?  
 A novel quantitative approach to modeling @ https://www.innovativeway.org/research
 
 
